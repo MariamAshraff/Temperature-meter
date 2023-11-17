@@ -20,5 +20,4 @@ The software program is structured into three layers:
 3. Application Layer, managing the overall application logic.
 
 In the operational process, the temperature sensor captures temperature as an analog signal. The internal ADC then converts this signal into a digital format. The resulting digital signal is interpreted to identify the voltage initially detected by the temperature sensor. This voltage is further processed through a coded equation to obtain a decimal value, which is finally displayed on the LCD screen.
-![Screenshot_1](https://github.com/MariamAshraff/Temperature-meter/assets/118696706/ddd6101a-6640-42da-9900-78bb1171704b)
-IMG_20231117_020623.jpg
+![Screenshot_1](https://github.com/MariamAshraff/Temperature-meter/assets/118696706/ddd6101a-6640-42da-9900-78bb1171704b).
